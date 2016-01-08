@@ -1,2 +1,2 @@
 # javacore_version1
-Code Java Examples
+Core Java Examples
